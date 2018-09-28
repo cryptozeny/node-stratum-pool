@@ -28,10 +28,10 @@
         "url": "https://github.com/bellflower2015/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/bellflower2015/node-multi-hashing.git",
-        "bignum": "*",
+        "async": "*",
         "base58-native": "*",
-        "async": "*"
+        "bignum": "*",
+        "multi-hashing": "git://github.com/bellflower2015/node-multi-hashing.git"
     },
     "engines": {
         "node": ">=0.10"
