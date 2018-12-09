@@ -28,6 +28,7 @@
         "url": "https://github.com/cryptozeny/node-stratum-pool.git"
     },
     "dependencies": {
+        "bitcoinjs-lib": "*",
         "async": "*",
         "base58-native": "*",
         "bignum": "*",
