@@ -30,11 +30,11 @@
         "url": "https://github.com/cryptozeny/node-stratum-pool.git"
     },
     "dependencies": {
+        "multi-hashing": "git://github.com/cryptozeny/node-multi-hashing.git",
         "bitcoinjs-lib": "*",
-        "async": "*",
-        "base58-native": "*",
         "bignum": "*",
-        "multi-hashing": "git://github.com/cryptozeny/node-multi-hashing.git"
+        "base58-native": "*",
+        "async": "*"
     },
     "engines": {
         "node": ">=0.10"
